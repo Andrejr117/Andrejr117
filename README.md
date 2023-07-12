@@ -1,11 +1,17 @@
 ### Olá! Dizem que sou o Carlos André 😎
 
+Desenvolvedor de Abreu e Lima-PE, Brasil, formado em Administração de empresas e atualmente estou cursando análise e Desenvolvimento de Sistemas. Meu primeiro "Hello World" foi na pré-adolescência quando tive contato com HTML e CSS.
+Apaixonado por tecnologia, alguns dos meus hobbies são games, séries e cinema.
+
+### Conecte-se comigo
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-andre-4b939819b/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 )](https://twitter.com/Andre_Junior18)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/4ndre.jr/)
 
-![André GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrejr117&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api?username=Andrejr117&show_icons=true&theme=tokyonight)
 
 
 ## Tecnologias que estudo atualmente 
@@ -17,5 +23,3 @@
     <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
     <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"/>
 </div><br/>
-
-Tecnologia, games e tentando ser melhor a cada dia :)
