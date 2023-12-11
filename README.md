@@ -1,7 +1,6 @@
 ### Olá! Dizem que sou o Carlos André 😎
 
-Desenvolvedor de Abreu e Lima-PE, Brasil, formado em Administração de empresas e atualmente estou cursando análise e Desenvolvimento de Sistemas. Meu primeiro "Hello World" foi quando tive contato com HTML e CSS.
-Apaixonado por tecnologia, alguns dos meus hobbies são games, séries e cinema.
+Desenvolvedor de Abreu e Lima-PE, Brasil, formado em Administração de empresas e Análise e Desenvolvimento de Sistemas, atualmente estudo ciência de dados e power BI. Meu primeiro "Hello World" foi quando tive contato com HTML e CSS. Apaixonado por tecnologia, alguns dos meus hobbies são games, séries e cinema.
 
 ### Conecte-se comigo
 
